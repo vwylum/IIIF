@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "postbills",
+        "purpose": "tagging"
+      }
+    ],
+    "target": {
+      "source": "https://repository.lib.cuhk.edu.hk/iiif/2/cuhk:2104397~JPG~public_default/full/full/0/default.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:110.93753051757812,163.09375,44.99998474121094,33.4375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#2b4fb1cd-b880-4e46-b35d-b5814cf262cd"
+  }
+]
