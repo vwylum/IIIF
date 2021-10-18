@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "postbills",
+        "purpose": "tagging"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/fcc5ba503556b175e47302ab9a0f75e040720980f7ceee120dc0e1451a4d462a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:144.6486053466797,149.47061157226562,66.8270263671875,57.954437255859375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c01aed9e-d2bb-49e6-9cc1-ae734b919e0c"
+  }
+]
