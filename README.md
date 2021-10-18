@@ -31,8 +31,8 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
-       license="public domain"       
-       url="https://repository.lib.cuhk.edu.hk/en/islandora/object/cuhk%3A2104397/datastream/JPG/view">
+       license="public domain"              
+       url="https://repository.lib.cuhk.edu.hk/iiif/2/cuhk:2104397~JPG~public_default/full/full/0/default.jpg">
 
 ## Map
 
