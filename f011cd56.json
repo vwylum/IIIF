@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "Place",
+        "purpose": "tagging"
+      }
+    ],
+    "target": {
+      "source": "https://repository.lib.cuhk.edu.hk/iiif/2/cuhk:2104397~JPG~public_default/full/full/0/default.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:122.49999237060547,32.15625,128.74999237060547,67.50000762939453"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#17479346-27c4-4c6d-9e62-b93339e34ad7"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "postbills",
         "purpose": "tagging"
       }
